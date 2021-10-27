@@ -1,0 +1,17 @@
+github.com/ThomasRooney/gexpect v0.0.0-20161231170123-5482f0350944/go.mod h1:sPML5WwI6oxLRLPuuqbtoOKhtmpVDCYtwsps+I+vjIY=
+github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
+github.com/godbus/dbus v4.1.0+incompatible h1:WqqLRTsQic3apZUK9qC5sGNfXthmPXzUZ7nQPrNITa4=
+github.com/godbus/dbus v4.1.0+incompatible/go.mod h1:/YcGZj5zSblfDWMMoOzV4fas9FZnQYTkDnsGvmh2Grw=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51/go.mod h1:CzGEWj7cYgsdH8dAjBGEr58BoE7ScuLd+fwFZ44+/x8=
+github.com/kr/pty v1.1.8/go.mod h1:O1sed60cT9XZ5uDucP5qwvh+TE3NnUj51EiZO/lmSfw=
+github.com/mark2b/wpa-connect v1.3.1 h1:UrGaTkuPMDKW6dVABENzYFjRu1yIw4IxV+n2amsw4A0=
+github.com/mark2b/wpa-connect v1.3.1/go.mod h1:+6ScBO6AMHe+Q78CyfYumz0/XPBvMS1wAYeStDEUjRo=
+github.com/ohayao/common v0.0.3 h1:lkEZoCqWSHjqE0ajFQVrNpKJdujAMVwxZdF0vLoA7VI=
+github.com/ohayao/common v0.0.3/go.mod h1:zx+V2ya9w+x346c0eJP0glL/AHAEnT3K1M5Ua8hWHpY=
+github.com/ohayao/mvc v1.0.2 h1:L325FVjl9piOKYEaCVg8VZk+SNEA3RPi3kXLHzqscfQ=
+github.com/ohayao/mvc v1.0.2/go.mod h1:JG9atxH3sYMAboIHmY/TDgBbMrxr+CuGdaxY3HbKHZE=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7 h1:lDH9UUVJtmYCjyT0CI4q8xvlXPxeZ0gYCVvWbmPlp88=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
+golang.org/x/sys v0.0.0-20201009025420-dfb3f7c4e634/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
